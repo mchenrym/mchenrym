@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(211, 243, 246);
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.center {
+    text-align: center;
+}
+
+.color {
+    color: sandybrown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.font-change {
+    font-size: 8px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: bold;
+}
+
+.myliking {
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(147, 7, 5)
+}
+
+.lastchance {
+    font-size: 15px;
+    font-weight: bold;
+    align-self: auto;
+    text-underline-position: below;
+}
